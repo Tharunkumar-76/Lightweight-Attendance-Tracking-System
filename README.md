@@ -43,7 +43,7 @@ Each entry is appended to `attendance.csv` with the following columns:
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone https://github.com/your-username/python-attendance-system.git
+git clone https://github.com/Tharunkumar-76/Lightweight-Attendance-Tracking-System.git
 cd python-attendance-system
 ```
 
